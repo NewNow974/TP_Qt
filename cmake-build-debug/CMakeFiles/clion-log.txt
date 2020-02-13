@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/d/Algo Avance 2ieme année/TP-Qt"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/Algo Avance 2ieme annÃ©e/TP-Qt/cmake-build-debug
