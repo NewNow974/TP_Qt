@@ -10,5 +10,6 @@ int main(int argc, char* argv[]) {
     window.show();
 
 
+    std::cout << "Hello !" << std::endl;
     return app.exec();
 }
