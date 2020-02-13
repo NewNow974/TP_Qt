@@ -9,7 +9,6 @@ int main(int argc, char* argv[]) {
     MainWindow window;
     window.show();
 
-
-    std::cout << "Hello !" << std::endl;
+    std::cout << "Hello 2 !" << std::endl;
     return app.exec();
 }
