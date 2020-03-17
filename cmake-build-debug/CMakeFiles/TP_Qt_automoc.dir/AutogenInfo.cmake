@@ -1,4 +1,4 @@
-set(AM_SOURCES "/mnt/d/Algo Avance 2ieme année/TP-Qt/main.cpp;/mnt/d/Algo Avance 2ieme année/TP-Qt/MainWindow.cpp" )
+set(AM_SOURCES "/mnt/d/Algo Avance 2ieme année/TP-Qt/main.cpp;/mnt/d/Algo Avance 2ieme année/TP-Qt/Window.cpp;/mnt/d/Algo Avance 2ieme année/TP-Qt/SQLClientWindow.cpp;/mnt/d/Algo Avance 2ieme année/TP-Qt/ButtonsPanel.cpp;/mnt/d/Algo Avance 2ieme année/TP-Qt/LabeledTextField.cpp;/mnt/d/Algo Avance 2ieme année/TP-Qt/ConfigurationDialog.cpp" )
 set(AM_RCC_SOURCES  )
 set(AM_RCC_INPUTS )
 set(AM_SKIP_MOC "" )

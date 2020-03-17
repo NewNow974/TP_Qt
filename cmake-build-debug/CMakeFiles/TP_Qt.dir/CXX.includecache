@@ -6,27 +6,129 @@
 
 #IncludeRegexTransform: 
 
-/mnt/d/Algo Avance 2ieme année/TP-Qt/MainWindow.cpp
-MainWindow.h
-/mnt/d/Algo Avance 2ieme année/TP-Qt/MainWindow.h
-QVBoxLayout
--
+/mnt/d/Algo Avance 2ieme année/TP-Qt/ButtonsPanel.cpp
+ButtonsPanel.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/ButtonsPanel.h
 
-/mnt/d/Algo Avance 2ieme année/TP-Qt/MainWindow.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/ButtonsPanel.h
+QtWidgets/QPushButton
+-
 QMainWindow
 -
-QPushButton
+QVBoxLayout
+-
+SQLClientWindow.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/SQLClientWindow.h
+
+/mnt/d/Algo Avance 2ieme année/TP-Qt/ConfigurationDialog.cpp
+ConfigurationDialog.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/ConfigurationDialog.h
+
+/mnt/d/Algo Avance 2ieme année/TP-Qt/ConfigurationDialog.h
+QDialog
+-
+QtWidgets/QWidget
+-
+QtWidgets/QPushButton
+-
+LabeledTextField.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/LabeledTextField.h
+
+/mnt/d/Algo Avance 2ieme année/TP-Qt/LabeledTextField.cpp
+LabeledTextField.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/LabeledTextField.h
+
+/mnt/d/Algo Avance 2ieme année/TP-Qt/LabeledTextField.h
+QtWidgets/QWidget
+-
+QtWidgets/QPushButton
+-
+QLabel
 -
 QTextEdit
 -
+QHBoxLayout
+-
+
+/mnt/d/Algo Avance 2ieme année/TP-Qt/SQLClientWindow.cpp
+QtWidgets/QHeaderView
+-
+SQLClientWindow.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/SQLClientWindow.h
+
+/mnt/d/Algo Avance 2ieme année/TP-Qt/SQLClientWindow.h
+QtWidgets/QWidget
+-
+QtWidgets/QPushButton
+-
+QMainWindow
+-
+QVBoxLayout
+-
+ButtonsPanel.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/ButtonsPanel.h
+QTextEdit
+-
+QTableWidget
+-
+
+/mnt/d/Algo Avance 2ieme année/TP-Qt/Window.cpp
+Window.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/Window.h
+
+/mnt/d/Algo Avance 2ieme année/TP-Qt/Window.h
+QtWidgets/QWidget
+-
+QtWidgets/QPushButton
+-
 
 /mnt/d/Algo Avance 2ieme année/TP-Qt/cmake-build-debug/TP_Qt_automoc.cpp
-TP_Qt_automoc.dir/moc_MainWindow_AH7KPGTJ5NM6T5.cpp
-/mnt/d/Algo Avance 2ieme année/TP-Qt/cmake-build-debug/TP_Qt_automoc.dir/moc_MainWindow_AH7KPGTJ5NM6T5.cpp
+TP_Qt_automoc.dir/moc_ButtonsPanel_BK2BD7B5CHRR77.cpp
+/mnt/d/Algo Avance 2ieme année/TP-Qt/cmake-build-debug/TP_Qt_automoc.dir/moc_ButtonsPanel_BK2BD7B5CHRR77.cpp
+TP_Qt_automoc.dir/moc_ConfigurationD_RKLK3W3VBLAW4C.cpp
+/mnt/d/Algo Avance 2ieme année/TP-Qt/cmake-build-debug/TP_Qt_automoc.dir/moc_ConfigurationD_RKLK3W3VBLAW4C.cpp
+TP_Qt_automoc.dir/moc_LabeledTextFie_EC5YPG7WUUZBCJ.cpp
+/mnt/d/Algo Avance 2ieme année/TP-Qt/cmake-build-debug/TP_Qt_automoc.dir/moc_LabeledTextFie_EC5YPG7WUUZBCJ.cpp
+TP_Qt_automoc.dir/moc_SQLClientWindo_EKFO73LXPJ3F3T.cpp
+/mnt/d/Algo Avance 2ieme année/TP-Qt/cmake-build-debug/TP_Qt_automoc.dir/moc_SQLClientWindo_EKFO73LXPJ3F3T.cpp
+TP_Qt_automoc.dir/moc_Window_XDT6T2G6Y22SZX.cpp
+/mnt/d/Algo Avance 2ieme année/TP-Qt/cmake-build-debug/TP_Qt_automoc.dir/moc_Window_XDT6T2G6Y22SZX.cpp
 
-/mnt/d/Algo Avance 2ieme année/TP-Qt/cmake-build-debug/TP_Qt_automoc.dir/moc_MainWindow_AH7KPGTJ5NM6T5.cpp
-../../MainWindow.h
-/mnt/d/Algo Avance 2ieme année/TP-Qt/MainWindow.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/cmake-build-debug/TP_Qt_automoc.dir/moc_ButtonsPanel_BK2BD7B5CHRR77.cpp
+../../ButtonsPanel.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/ButtonsPanel.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
+/mnt/d/Algo Avance 2ieme année/TP-Qt/cmake-build-debug/TP_Qt_automoc.dir/moc_ConfigurationD_RKLK3W3VBLAW4C.cpp
+../../ConfigurationDialog.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/ConfigurationDialog.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
+/mnt/d/Algo Avance 2ieme année/TP-Qt/cmake-build-debug/TP_Qt_automoc.dir/moc_LabeledTextFie_EC5YPG7WUUZBCJ.cpp
+../../LabeledTextField.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/LabeledTextField.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
+/mnt/d/Algo Avance 2ieme année/TP-Qt/cmake-build-debug/TP_Qt_automoc.dir/moc_SQLClientWindo_EKFO73LXPJ3F3T.cpp
+../../SQLClientWindow.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/SQLClientWindow.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
+/mnt/d/Algo Avance 2ieme année/TP-Qt/cmake-build-debug/TP_Qt_automoc.dir/moc_Window_XDT6T2G6Y22SZX.cpp
+../../Window.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/Window.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
@@ -35,11 +137,27 @@ QtCore/qmetatype.h
 /mnt/d/Algo Avance 2ieme année/TP-Qt/main.cpp
 iostream
 -
+QApplication
+-
 QPushButton
 -
-MainWindow.h
-/mnt/d/Algo Avance 2ieme année/TP-Qt/MainWindow.h
-QApplication
+Window.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/Window.h
+SQLClientWindow.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/SQLClientWindow.h
+LabeledTextField.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/LabeledTextField.h
+ConfigurationDialog.h
+/mnt/d/Algo Avance 2ieme année/TP-Qt/ConfigurationDialog.h
+
+/usr/include/x86_64-linux-gnu/qt5/QtCore/qabstractitemmodel.h
+QtCore/qvariant.h
+-
+QtCore/qobject.h
+-
+QtCore/qhash.h
+-
+QtCore/qvector.h
 -
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qalgorithms.h
@@ -314,6 +432,16 @@ QtCore/qglobal.h
 QtCore/qtypetraits.h
 -
 
+/usr/include/x86_64-linux-gnu/qt5/QtCore/qitemselectionmodel.h
+QtCore/qset.h
+-
+QtCore/qvector.h
+-
+QtCore/qlist.h
+-
+QtCore/qabstractitemmodel.h
+-
+
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qiterator.h
 QtCore/qglobal.h
 -
@@ -490,6 +618,18 @@ QtCore/qatomic.h
 QtCore/qglobal.h
 -
 QtCore/qstring.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtCore/qregularexpression.h
+QtCore/qglobal.h
+-
+QtCore/qstring.h
+-
+QtCore/qstringlist.h
+-
+QtCore/qshareddata.h
+-
+QtCore/qvariant.h
 -
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qscopedpointer.h
@@ -1038,6 +1178,18 @@ QtCore/qpoint.h
 QtCore/qrect.h
 -
 
+/usr/include/x86_64-linux-gnu/qt5/QtGui/qvalidator.h
+QtCore/qobject.h
+-
+QtCore/qstring.h
+-
+QtCore/qregexp.h
+-
+QtCore/qregularexpression.h
+-
+QtCore/qlocale.h
+-
+
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qvector2d.h
 QtCore/qpoint.h
 -
@@ -1062,6 +1214,22 @@ QtCore/qglobal.h
 qapplication.h
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qapplication.h
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QDialog
+qdialog.h
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdialog.h
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QHBoxLayout
+qboxlayout.h
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QHeaderView
+qheaderview.h
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qheaderview.h
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLabel
+qlabel.h
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlabel.h
+
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMainWindow
 qmainwindow.h
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmainwindow.h
@@ -1069,6 +1237,10 @@ qmainwindow.h
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QPushButton
 qpushbutton.h
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QTableWidget
+qtablewidget.h
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtablewidget.h
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QTextEdit
 qtextedit.h
@@ -1078,6 +1250,10 @@ qtextedit.h
 qboxlayout.h
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QWidget
+qwidget.h
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h
+
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractbutton.h
 QtGui/qicon.h
 -
@@ -1086,8 +1262,34 @@ QtGui/qkeysequence.h
 QtWidgets/qwidget.h
 -
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractitemdelegate.h
+QtCore/qobject.h
+-
+QtWidgets/qstyleoption.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractitemview.h
+QtWidgets/qabstractscrollarea.h
+-
+QtCore/qabstractitemmodel.h
+-
+QtCore/qitemselectionmodel.h
+-
+QtWidgets/qabstractitemdelegate.h
+-
+
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractscrollarea.h
 QtWidgets/qframe.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractslider.h
+QtWidgets/qwidget.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractspinbox.h
+QtWidgets/qwidget.h
+-
+QtGui/qvalidator.h
 -
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qapplication.h
@@ -1118,6 +1320,10 @@ limits.h
 QtWidgets/qwidget.h
 -
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdialog.h
+QtWidgets/qwidget.h
+-
+
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h
 QtWidgets/qwidget.h
 -
@@ -1128,6 +1334,14 @@ QtWidgets/qlayout.h
 QtWidgets/qwidget.h
 -
 limits.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qheaderview.h
+QtWidgets/qabstractitemview.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlabel.h
+QtWidgets/qframe.h
 -
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h
@@ -1166,8 +1380,72 @@ QtWidgets/qtabwidget.h
 QtWidgets/qabstractbutton.h
 -
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qrubberband.h
+QtWidgets/qwidget.h
+-
+
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qsizepolicy.h
 QtCore/qobject.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qslider.h
+QtWidgets/qabstractslider.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstyle.h
+QtCore/qobject.h
+-
+QtCore/qrect.h
+-
+QtCore/qsize.h
+-
+QtGui/qicon.h
+-
+QtGui/qpixmap.h
+-
+QtGui/qpalette.h
+-
+QtWidgets/qsizepolicy.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstyleoption.h
+QtCore/qvariant.h
+-
+QtWidgets/qabstractspinbox.h
+-
+QtGui/qicon.h
+-
+QtGui/qmatrix.h
+-
+QtWidgets/qslider.h
+-
+QtWidgets/qstyle.h
+-
+QtWidgets/qtabbar.h
+-
+QtWidgets/qtabwidget.h
+-
+QtWidgets/qrubberband.h
+-
+QtWidgets/qframe.h
+-
+QtCore/qabstractitemmodel.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabbar.h
+QtWidgets/qwidget.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtableview.h
+QtWidgets/qabstractitemview.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtablewidget.h
+QtWidgets/qtableview.h
+-
+QtCore/qvariant.h
+-
+QtCore/qvector.h
 -
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabwidget.h
